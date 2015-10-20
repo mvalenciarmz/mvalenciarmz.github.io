@@ -8,6 +8,4 @@ Puedo escribir los versos más tristes ésta noche,
 escribir por ejemplo: "La noche está estrellada,
 y tiritan azules los astros a lo lejos".
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 Éste texto está abajo de un archivo .png llamado config.png.
