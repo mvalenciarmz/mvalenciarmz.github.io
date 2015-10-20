@@ -8,6 +8,8 @@ En algunas ocasiones queremos que nuestros sistemas nos informen de determinados
 
 Nuestros teléfonos celulares están con nosotros casi 24x7x365, y en general tenemos cierta tendencia a revisar los mensajes en períodos de tiempo muy cortos.
 
+> Obviamente, el celular debe tener acceso a internet para que el sistema de alertas funcione.
+
 Aprovechando ésto, y la tecnología de **bots** de **Telegram**, podemos hacer un sistema de notificación automático, con la ventaja además de que Telegram está disponible para Android, iOS y Windows Phone, así que independientemente del teléfono que tenga el destinatario de los mensajes, podemos asegurarnos de que lo recibirá sin que tengamos que programar ninguna aplicación del lado del celular.
 
 Existen multitud de tutoriales en internet para crear nuestos bots y programarlos.   Personalmente me parece muy sencillo y concreto el tutorial de [Xataca - cómo crear un bot de telegram](http://www.xatakamovil.com/aplicaciones/llegan-los-bots-a-telegram-como-crear-el-tuyo-propio).
