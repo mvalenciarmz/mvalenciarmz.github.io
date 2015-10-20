@@ -8,7 +8,7 @@ En algunas ocasiones queremos que nuestros sistemas nos informen de determinados
 
 Nuestros teléfonos celulares están con nosotros casi 24x7x365, y en general tenemos cierta tendencia a revisar los mensajes en períodos de tiempo muy cortos.
 
-Aprovechando ésto, y la tecnología de **bots** de **Telegram**, podemos hacer un sistema de notificación automático, con la ventaja además de que Telegram está disponible para Android, iOS y Windows Phone, así que independientemente del teléfono que tenga el destinatario de los mensajes, podemos asegurarnos de que lo recibirá sin que tengamos que programar ninguna aplicación del lado del celular, ya que **Telegram** está disponible para todas ésas plataformas.
+Aprovechando ésto, y la tecnología de **bots** de **Telegram**, podemos hacer un sistema de notificación automático, con la ventaja además de que Telegram está disponible para Android, iOS y Windows Phone, así que independientemente del teléfono que tenga el destinatario de los mensajes, podemos asegurarnos de que lo recibirá sin que tengamos que programar ninguna aplicación del lado del celular.
 
 Existen multitud de tutoriales en internet para crear nuestos bots y programarlos.   Personalmente me parece muy sencillo y concreto el tutorial de [Xataca - cómo crear un bot de telegram](http://www.xatakamovil.com/aplicaciones/llegan-los-bots-a-telegram-como-crear-el-tuyo-propio).
 
@@ -60,7 +60,7 @@ Ahora debemos volver a escribir la dirección en nuestro navegador que usamos an
 }
 ```
 
-Lo importante aquí es el **id** que nos regresa, ya que el **id** del **chat** es lo que necesitamos (junto con el **token**) para comenzar a mandar mensajes a nuestro celular.   Y listo, ésto es todo lo que necesitamos del lado de **Telegram** para enviar alertas a un celular.
+Lo importante aquí es el **id** que nos regresa, ya que el **id** del **chat** es lo que necesitamos (junto con el **token**) para comenzar a mandar mensajes a nuestro celular.
 
 Ahora, el ejemplo del lado del servidor lo haré en PHP, pero -como se mencionó anteriormente- abundan en internet buenos ejemplos para casi cualquier lenguaje.
 
@@ -75,6 +75,6 @@ Y eso es todo.   Aquí lo importante es que el **token** esté correctamente esc
 
 > Naturalmente, éste método es muy primitivo e inseguro (sobre todo si compartimos el código) ya que el **token** y el **chat_id** nos permitirán enviar mensajes a un teléfono personal.   Pero la idea es tener un sistema de notificaciones simple y rápido, multiplataforma en los dispositivos receptores. 
 
-> Este uso es muy básico, la potencia de los **bots** de **Telegram** es muy robusta, la seguridad es alta, y próximamente intentaremos hacer un completo sistema de mensajes, con administración de usuarios.
+Este uso es muy básico, la potencia de los **bots** de **Telegram** es muy robusta, la seguridad es alta, y próximamente intentaremos hacer un completo sistema de mensajes, con administración de usuarios.
 
 Si algo no funciona bien, recuenden, usen la fuerza... un golpe al CPU tal vez arregle el problema.   Y luego van a google a buscar la respuesta.
