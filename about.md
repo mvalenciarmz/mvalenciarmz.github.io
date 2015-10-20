@@ -10,6 +10,6 @@ Contador Público, Programador, Analista.
 
 Trabajo en la Unidad de Informática de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-### Contáctame
+### Contacto
 
 [mvalenciarmz@gmail.com](mailto:mvalenciarmz@gmai.com)
