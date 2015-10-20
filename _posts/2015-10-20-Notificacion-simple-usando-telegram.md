@@ -12,7 +12,7 @@ Aprovechando ésto, y la tecnología de **bots** de **Telegram**, podemos hacer 
 
 Existen multitud de tutoriales en internet para crear nuestos bots y programarlos.   Personalmente me parece muy sencillo y concreto el tutorial de [Xataca - cómo crear un bot de telegram](http://www.xatakamovil.com/aplicaciones/llegan-los-bots-a-telegram-como-crear-el-tuyo-propio).
 
-Lo primero que tenemos que hacer es crear nuestro bot.   Esto nos regresará nuestro **token**.   Ya con el token vamos al navegador y escribimos:
+Lo primero que tenemos que hacer es crear nuestro bot siguiendo el tutorial.   Esto nos regresará nuestro **token**.   Ya con el **token** vamos al navegador y escribimos:
 
 ```
 https://api.telegram.org/bot***AQUI_VA_EL_TOKEN_OBTENIDO***/getUpdates
@@ -27,7 +27,7 @@ result: [ ]
 }
 ```
 
-Ahora lo que tenemos que hacer es enviar un mensaje cualquiera desde telegram hacia nuestro bot.   Por default presenta el botón **Iniciar** cuando iniciamos la conversación con nuestro **@bot**, y presenta la opción **/start**.   Basta que pulsemos ésa para nuestro propósito.
+Ahora lo que tenemos que hacer es enviar un mensaje cualquiera desde telegram hacia nuestro bot.   Por default presenta el botón **Iniciar** cuando iniciamos la conversación con nuestro **@bot**, y luego presenta la opción **/start**.   Basta que pulsemos ésa para nuestro propósito.
 
 > Es **obligatorio** mandar el mensaje desde el celular que recibirá las notificaciones, ya que **Telegram** le asigna un **id** único.
 
@@ -77,4 +77,4 @@ Y eso es todo.   Aquí lo importante es que el **token** esté correctamente esc
 
 Este uso es muy básico, la potencia de los **bots** de **Telegram** es muy robusta, la seguridad es alta, y próximamente intentaremos hacer un completo sistema de mensajes, con administración de usuarios.
 
-Si algo no funciona bien, recuenden, usen la fuerza... un golpe al CPU tal vez arregle el problema.   Y luego van a google a buscar la respuesta.
+Si algo no funciona bien, recuerden, usen la fuerza... un golpe al CPU tal vez arregle el problema.   Y luego van a google a buscar la respuesta.
