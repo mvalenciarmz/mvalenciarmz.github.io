@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Información
 permalink: /about/
 ---
 
-Some information about you!
+Contador Público, Programador, Analista.
 
-### More Information
+### Más Información
 
-A place to include any other types of information that you'd like to include about yourself.
+Trabajo en la Unidad de Informática de la Secretaría de Finanzas del Gobierno del Estado de Oaxaca.
 
-### Contact me
+### Contáctame
 
-[email@domain.com](mailto:email@domain.com)
+[mvalenciarmz@gmail.com](mailto:mvalenciarmz@gmai.com)
